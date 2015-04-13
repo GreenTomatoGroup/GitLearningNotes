@@ -22,7 +22,7 @@ Git has `branch` function
 
 - export svn repo
 - new repo in gitlab 
-- add .gitignore (github)
+- add .gitignore from [github](https://github.com/github/gitignore)
 - add ReadMe.md
 - git commit
 
