@@ -1,7 +1,9 @@
 # Git Learning Notes
 
 ## theory
+
 SVN = 1 [remote] \(with all versions\) - N [local] 
+
 Git = N [remote] - N[local] \(with all versions\)
 
 Git has `branch` function
