@@ -69,7 +69,7 @@ Git has `branch` function
   - minor: backward compactible with a new feature
   - patch: bugfix
   - build number: each time build release
-  - sync with package name / bundle id
+  - sync with mobile app version number
 
 ### ReadMe.md
 
